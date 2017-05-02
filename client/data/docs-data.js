@@ -2,7 +2,7 @@
 DocsData = {
   "Method.\"click .new-post\"": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master",
     "ismethod": "true",
     "kind": "function",
     "lineno": 44,
