@@ -2,7 +2,7 @@
 DocsData = {
   "Method.\"click .new-post\"": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 44,
@@ -59,7 +59,7 @@ DocsData = {
   },
   "Method.autorun": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 12,
@@ -88,7 +88,7 @@ DocsData = {
   },
   "Method.events": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 27,
@@ -102,7 +102,7 @@ DocsData = {
   },
   "Method.helpers": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 74,
@@ -116,7 +116,7 @@ DocsData = {
   },
   "Method.onCreated": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 2,
@@ -145,7 +145,7 @@ DocsData = {
   },
   "Method.statusPlaceholder": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 82,
@@ -174,7 +174,7 @@ DocsData = {
   },
   "Method.stories": {
     "filename": "profileFeed.js",
-    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/masterC:\\Users\\Marc\\facebook2\\client\\views\\profile\\profileFeed/profileFeed.js",
+    "filepath": "https://github.com/MarcRodriguez95/meteorFacebook/tree/master/client/views/profile/profileFeed/profileFeed.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 98,
